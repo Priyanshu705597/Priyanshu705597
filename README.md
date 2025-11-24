@@ -1,78 +1,75 @@
-## Hi there 👋
-
-<!--
-**Priyanshu705597/Priyanshu705597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- FINAL PREMIUM PROFILE README for Priyanshu705597 -->
+<!-- FINAL PREMIUM CONVERSATIONAL README for Priyanshu705597 -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/profile-banner.png" alt="Profile Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&width=850&lines=Hey+there!+I%27m+Priyanshu+Kumar+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+%7C+Cpp+%7C+Python;Building+scalable+web+apps+and+clean+UI%2FUX" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&width=850&lines=Hey+there!+I'm+Priyanshu+Kumar+👋;Full+Stack+Developer+%7C+React+%7C+Node;I+love+building+cool+things+on+the+internet!" />
 </p>
 
 ---
 
-## 🔭 Quick Snapshot
+## 👨‍💻 About Me (Short & Friendly)
 
-* 🚀 Full‑Stack Developer (MERN)
-* 🔧 Competitive Programmer (C/C++)
-* 🧠 Exploring: Web Apps · Algorithms · Open Source
-* 🌎 India
+Hey! I'm **Priyanshu**, a developer who loves turning ideas into clean, functional web apps.
+
+I spend most of my time doing:
+
+* ✨ Building modern UIs with **React & Next.js**
+* ⚙️ Creating powerful APIs using **Node.js + Express**
+* 🧠 Sharpening problem solving with **C++ & DSA**
+* 🌱 Learning and experimenting with new tech
+
+I believe in writing code that’s **simple, readable, and scalable**. Also — coffee + late‑night coding = heaven.
 
 ---
 
-## 🧰 Tech Snapshot
+## 🧰 Tech Stack
 
 ### **Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,python,ts" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts" /></p>
 
-### **Frameworks / Libraries / Databases**
+### **Frameworks / Libraries / DBs**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,redux,tailwind,bootstrap" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,redux,tailwind,bootstrap" /></p>
 
 ### **Tools & Platforms**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,figma" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,figma" /></p>
 
 ---
 
-## 📈 GitHub Stats
+## 🧩 A Little Dev‑Style Bio
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Priyanshu705597&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu705597&layout=compact&theme=tokyonight" />
-</p>
+```js
+const priyanshu = {
+  pronouns: "He/Him",
+  passion: "Full‑Stack Web Dev",
+  loves: ["Clean UI", "DSA", "Open Source"],
+  currentlyLearning: "System Design",
+  motto: "Dream big, code bigger!",
+};
+```
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project         | Description                                                 | Tech                                 | Demo                                                                                                           |
-| --------------- | ----------------------------------------------------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
-| **Portfolio**   | A modern personal portfolio with animations & responsive UI | React · Next.js · Tailwind           | ![Portfolio](https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/demo_portfolio.gif) |
-| **ChatNow**     | Real‑time chat app with media sharing                       | Node · Express · Socket.io · MongoDB | ![Chat App](https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/demo_chat.gif)       |
-| **DSA Library** | C++ snippets, templates & algorithms                        | C++ · STL · Algorithms               | ![DSA](https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/screenshot_dsa.png)       |
+| Project         | Description                                               | Tech                       | Demo                                                                                                           |
+| --------------- | --------------------------------------------------------- | -------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Portfolio**   | Modern personal portfolio with responsive UI & animations | React · Next.js · Tailwind | ![Portfolio](https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/demo_portfolio.gif) |
+| **ChatNow**     | Real‑time chat app with rooms & media                     | Node · Express · Socket.io | ![Chat App](https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/demo_chat.gif)       |
+| **DSA Library** | My personal C++ STL + algorithms collection               | C++ · STL                  | ![DSA](https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/screenshot_dsa.png)       |
+
+---
+
+## 🧠 Competitive Programming & Learning
+
+* Practicing daily on **LeetCode** & **GFG**
+* Strong grip on **C++ STL**, arrays, graphs, DP
+* Love solving real‑world problems with code
 
 ---
 
@@ -82,11 +79,9 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Priyanshu705597/Priyanshu705597/blob/output/dist/snake.svg)
 ```
 
-*(Make sure you added the snake workflow file in `.github/workflows/snake.yml`)*
-
 ---
 
-## 🌐 Connect With Me
+## 🌎 Social Links
 
 <p>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome" /></a>
@@ -96,5 +91,46 @@ Here are some ideas to get you started:
 
 ---
 
-⭐ **Thanks for visiting my profile! Feel free to check out my repositories or connect with me.**
+## 🧪 Extras I added (you wanted)
+
+### 🟩 Horizontal Animated Skill Bar
+
+<img src="https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/skill_bars.gif" alt="Skill Bars" />
+
+### 🔥 Streak Stats Card
+
+<img src="https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/streak_card.png" alt="Streak Card" />
+
+### 🧷 Pixel-Art Avatar
+
+<img src="https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/avatar_pixel.png" alt="Avatar" width="96" height="96" />
+
+### 🎨 Social Icons (colored)
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode" /></a>
+</p>
+
+### 🗃 ASCII Box Headers
+
+```
++----------------------------------+
+|       Featured Projects          |
++----------------------------------+
+```
+
+### 🏷 Extra Badges
+
+<p>
+  <img src="https://img.shields.io/badge/Open%20Source-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-008080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-B26BFF?style=for-the-badge" />
+</p>
+
+---
+
+⭐ **Files created:** `avatar_pixel.png`, `skill_bars.gif`, `streak_card.png` (upload these to `assets/` in your repo and they will appear in the README).
+
 
