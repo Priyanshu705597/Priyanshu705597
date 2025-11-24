@@ -1,136 +1,183 @@
-<!-- FINAL PREMIUM CONVERSATIONAL README for Priyanshu705597 -->
+<h1 align="center">⚡🌑 Priyanshu Kumar — Dark Neon Edition 🌑⚡</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/profile-banner.png" alt="Profile Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/neon_header.gif" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&width=850&lines=Hey+there!+I'm+Priyanshu+Kumar+👋;Full+Stack+Developer+%7C+React+%7C+Node;I+love+building+cool+things+on+the+internet!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=0AFFEE&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%7C+MERN+Stack;Dark+Neon+UI+Designer;C%2B%2B+%7C+JavaScript+%7C+TypeScript;Building+Fast+%26+Beautiful+Apps" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Priyanshu705597&color=0AFFEE&style=for-the-badge&label=VIEWS" />
+  <img src="https://img.shields.io/github/followers/Priyanshu705597?style=for-the-badge&logo=github&color=FF00FF&labelColor=000" />
+  <img src="https://img.shields.io/github/stars/Priyanshu705597?style=for-the-badge&logo=github&color=00E7FF&labelColor=000" />
 </p>
 
 ---
 
-## 👨‍💻 About Me (Short & Friendly)
+## <img src="https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/emoji_pulse.gif" width="32"/> **ABOUT ME — DARK MODE**
 
-Hey! I'm **Priyanshu**, a developer who loves turning ideas into clean, functional web apps.
-
-I spend most of my time doing:
-
-* ✨ Building modern UIs with **React & Next.js**
-* ⚙️ Creating powerful APIs using **Node.js + Express**
-* 🧠 Sharpening problem solving with **C++ & DSA**
-* 🌱 Learning and experimenting with new tech
-
-I believe in writing code that’s **simple, readable, and scalable**. Also — coffee + late‑night coding = heaven.
-
----
-
-## 🧰 Tech Stack
-
-### **Languages**
-
-<p><img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts" /></p>
-
-### **Frameworks / Libraries / DBs**
-
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,redux,tailwind,bootstrap" /></p>
-
-### **Tools & Platforms**
-
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,figma" /></p>
-
----
-
-## 🧩 A Little Dev‑Style Bio
-
-```js
+```javascript
 const priyanshu = {
-  pronouns: "He/Him",
-  passion: "Full‑Stack Web Dev",
-  loves: ["Clean UI", "DSA", "Open Source"],
-  currentlyLearning: "System Design",
-  motto: "Dream big, code bigger!",
+  role: "Full-Stack Developer (MERN)",
+  theme: "Dark-Neon",
+  location: "India 🇮🇳",
+  passions: ["Coding", "Neon UI/UX", "Animations", "APIs"],
+  learning: "System Design + Scalable Apps",
+  motto: "Code. Create. Glow. ⚡",
 };
 ```
 
----
-
-## 🚀 Featured Projects
-
-| Project         | Description                                               | Tech                       | Demo                                                                                                           |
-| --------------- | --------------------------------------------------------- | -------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **Portfolio**   | Modern personal portfolio with responsive UI & animations | React · Next.js · Tailwind | ![Portfolio](https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/demo_portfolio.gif) |
-| **ChatNow**     | Real‑time chat app with rooms & media                     | Node · Express · Socket.io | ![Chat App](https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/demo_chat.gif)       |
-| **DSA Library** | My personal C++ STL + algorithms collection               | C++ · STL                  | ![DSA](https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/screenshot_dsa.png)       |
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ---
 
-## 🧠 Competitive Programming & Learning
+## 🎖 **Dark Neon Badges**
 
-* Practicing daily on **LeetCode** & **GFG**
-* Strong grip on **C++ STL**, arrays, graphs, DP
-* Love solving real‑world problems with code
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-8A2BE2?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-00E7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Neon%20Designer-FF00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA%20Coder-00FFA6?style=for-the-badge" />
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+## ⚙️ **Tech Stack — Dark Neon Edition**
+
+| Languages                                                                   | Frameworks                                                                                    | Tools                                                                                           | Databases                                                                                 |
+| --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts" height="65" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" height="65" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux" height="65" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql,html,css,bootstrap" height="65" /> |
+
+---
+
+## 🚀 **Projects — Glow Effect Enabled**
+
+<table>
+  <tr>
+    <td width="50%">
+
+### 🌌 **Portfolio Website**
+
+*React • Next.js • Neon Tailwind*
+
+<img src="https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/demo_portfolio.gif" width="100%" />
+
+[🔗 Repo](https://github.com/Priyanshu705597/portfolio)
+
+```
+</td>
+<td width="50%">
+```
+
+### 🛰 **ChatNow**
+
+*Node • Express • Socket.io*
+
+<img src="https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/demo_chat.gif" width="100%" />
+
+[🔗 Repo](https://github.com/Priyanshu705597/chatnow)
+
+```
+</td>
+```
+
+  </tr>
+
+  <tr>
+    <td width="50%">
+
+### 💠 **DSA Library**
+
+*C++ • Algorithms*
+
+<img src="https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/screenshot_dsa.png" width="100%" />
+
+[🔗 Repo](https://github.com/Priyanshu705597/dsa-library)
+
+```
+</td>
+<td width="50%">
+```
+
+### ⚡ **MERN Todo App**
+
+*Auth • CRUD*
+
+<img src="https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/project_glow.gif" width="100%" />
+
+[🔗 Repo](https://github.com/Priyanshu705597/mern-todo)
+
+```
+</td>
+```
+
+  </tr>
+</table>
+
+---
+
+## 🏆 **Holopin Board**
+
+[![Holopin](https://holopin.me/priyanshu705597)](https://holopin.io/@priyanshu705597)
+
+---
+
+<!--## 🐍 **Dark Neon Activity Snake**
 
 ```md
 ![snake gif](https://github.com/Priyanshu705597/Priyanshu705597/blob/output/dist/snake.svg)
-```
+```-->
 
 ---
 
-## 🌎 Social Links
+## 📊 **GitHub Stats — Neon Glow**
 
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github" /></a>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu705597&theme=tokyonight" />
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Priyanshu705597&theme=react&background=000000&ring=FF00FF&fire=00E7FF&currStreakLabel=0AFFEE" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu705597&layout=compact&theme=tokyonight" />
+</p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu705597&theme=tokyo-night&hide_border=true&area=true&color=FF00FF" />
 </p>
 
 ---
 
-## 🧪 Extras I added (you wanted)
+## 🤝 **Connect With Me — Neon Socials**
 
-### 🟩 Horizontal Animated Skill Bar
-
-<img src="https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/skill_bars.gif" alt="Skill Bars" />
-
-### 🔥 Streak Stats Card
-
-<img src="https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/streak_card.png" alt="Streak Card" />
-
-### 🧷 Pixel-Art Avatar
-
-<img src="https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/avatar_pixel.png" alt="Avatar" width="96" height="96" />
-
-### 🎨 Social Icons (colored)
-
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode" /></a>
+<p align="center">
+  <a href="https://github.com/Priyanshu705597"><img src="https://img.icons8.com/clouds/100/github.png" width="80"/></a>
+  <a href="#"><img src="https://img.icons8.com/clouds/100/linkedin.png" width="80"/></a>
+  <a href="#"><img src="https://img.icons8.com/clouds/100/gmail.png" width="80"/></a>
 </p>
 
-### 🗃 ASCII Box Headers
-
-```
-+----------------------------------+
-|       Featured Projects          |
-+----------------------------------+
-```
-
-### 🏷 Extra Badges
-
-<p>
-  <img src="https://img.shields.io/badge/Open%20Source-FF6F61?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MERN%20Stack-008080?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-B26BFF?style=for-the-badge" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=28&duration=4000&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Stay+glowing+%26+keep+building!" />
 </p>
 
 ---
 
-⭐ **Files created:** `avatar_pixel.png`, `skill_bars.gif`, `streak_card.png` (upload these to `assets/` in your repo and they will appear in the README).
+<!--### ✅ How to use
+
+Just copy this entire README → paste into:
+
+```
+Priyanshu705597 / README.md
+```
+
+Make sure all assets are uploaded inside:
+
+```
+assets/
+```
+
+You're done! 🚀🌑⚡-->
+
 
 
