@@ -1,4 +1,4 @@
-<h1 align="center">⚡🌑 Priyanshu Kumar — Dark Neon Edition 🌑⚡</h1>
+<h1 align="center">✨ Priyanshu ✨</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/neon_header.gif" width="100%" />
