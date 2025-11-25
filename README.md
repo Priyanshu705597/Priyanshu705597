@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/neon_header.gif" width="100%" />
 </p> -->
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=900&duration=7000&color=FF6FC1&center=true&vCenter=true&width=1550&lines=Turning+Ideas+Into+Beautiful+Web+Experiences+%F0%9F%92%AB;Where+Creativity+Meets+Clean+Code+%E2%9C%A8;From+Logic+to+UI+%E2%80%94+I+Build+It+All+%F0%9F%92%BB" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=900&duration=7000&color=FF6FC1&center=true&vCenter=true&width=1550&lines=Turning+Ideas+Into+Beautiful+Web+Experiences+%F0%9F%92%AB;Where+Creativity+Meets+Clean+Code+%E2%9C%A8;From+Logic+to+UI+%E2%80%94+I+Build+It+All+%F0%9F%92%BB" /></p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -184,8 +184,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanshu705597&theme=radical&utcOffset=5.5" />
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Priyanshu705597&theme=react&background=000000&ring=FF00FF&fire=00E7FF&currStreakLabel=0AFFEE" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Priyanshu705597&theme=react&background=000000" />
 </p>
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu705597&layout=compact&theme=tokyonight" />
@@ -193,7 +194,7 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu705597&theme=tokyo-night&hide_border=true&area=true&color=FF00FF" />
 </p>
-  ## 🤝 **Connect With Me**
+  ## 🤝  CONNECT WIT ME 
 
  <table  align="center" >
   <tr>
@@ -233,7 +234,7 @@
 ```
 
                      ╔═══════════════════════════════════════════════════════════════════════════╗
-                     ║                  🌐 LET'S BUILD SOMETHING AMAZING TOGETHER 🌐                           ║
+                     ║                  🌐 LET'S BUILD SOMETHING AMAZING TOGETHER 🌐            ║
                      ╚═══════════════════════════════════════════════════════════════════════════╝
 
 ```
